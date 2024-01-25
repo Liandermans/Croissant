@@ -1,3 +1,17 @@
-body {
-  background-color: aqua;
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.box {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
 }
