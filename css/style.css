@@ -31,8 +31,3 @@ img {
   display: flex;
   justify-content: space-evenly;
 }
-
-.back-home {
-  position: relative;
-  left: 150px;
-}
